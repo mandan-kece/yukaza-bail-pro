@@ -3,16 +3,23 @@
   "version": "6.8.5",
   "description": "Custom Baileys WhatsApp API",
   "keywords": [
-    "baileys", "baileys-mod", "wabot", "whatsapp",
-    "js-whatsapp", "whatsapp-api", "whatsapp-web", "whatsapp-bot",
-    "automation", "multi-device"
+    "baileys", 
+    "baileys-mod", 
+    "wabot", 
+    "whatsapp",
+    "js-whatsapp", 
+    "whatsapp-api", 
+    "whatsapp-web", 
+    "whatsapp-bot",
+    "automation", 
+    "multi-device"
   ],
-  "homepage": "https://github.com/nstar-y/bail",
+  "homepage": "",
   "repository": {
-    "url": "git+ssh://git@github.com/nstar-y/bail.git"
+    "url": ""
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "yukazaoffc",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
